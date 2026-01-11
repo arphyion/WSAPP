@@ -1,0 +1,5 @@
+{
+  "name": "BookMe - WhatsApp Appointment Booking",
+  "description": "A mobile-first appointment booking platform that connects service providers with customers via WhatsApp. Businesses can customize their services and availability, and customers can book appointments in seconds with pre-filled WhatsApp messages.",
+  "requestFramePermissions": []
+}
